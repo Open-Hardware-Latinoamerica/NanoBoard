@@ -16,6 +16,9 @@ The board can be programmed with any language available for Arduino Nano, althou
 
 [LOFI Blocks features and required firmware](https://lofiblocks.com/en/)
 
+## Design
+The board was designed using [KiCad](https://kicad-pcb.org/) Ver. 4
+
 ![Model](https://github.com/Open-Hardware-Latinoamerica/NanoBoard/blob/master/Imagenes/3dModel.JPG?raw=true)
 
 ![Photo](https://github.com/Open-Hardware-Latinoamerica/NanoBoard/blob/master/Imagenes/FotoPCB.jpg?raw=true)
