@@ -3,4 +3,6 @@
 
 ![Model](https://github.com/Open-Hardware-Latinoamerica/NanoBoard/blob/master/Imagenes/3dModel.JPG?raw=true)
 
-https://github.com/Open-Hardware-Latinoamerica/NanoBoard/blob/master/Imagenes/3dModel.JPG
+![Model](https://github.com/Open-Hardware-Latinoamerica/NanoBoard/blob/master/Imagenes/FotoPCB.JPG?raw=true)
+
+
