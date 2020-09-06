@@ -19,6 +19,30 @@ The board can be programmed with any language available for Arduino Nano, althou
 ## Design
 The board was designed using [KiCad](https://kicad-pcb.org/) Ver. 4
 
+---------------------------------------------------------------
+
+# NanoBoard
+Placa de bajo costo para aplicaciones de robótica educativa.
+
+## Caracteristicas
+La placa cuenta con todo el hardware necesario para montar un robot para experiencias educativas:
+
+- L293 para controlar dos motores DC
+- Conector para un medidor de distancias por ultrasonidos HC-SR04
+- Tres LED integrados
+- Tres conectores de salida
+- Dos conectores de entrada
+- Zumbador
+- Conector para módulo Bluetooth tipo HC-05
+
+## Programación
+La placa se puede programar con cualquier lenguaje disponible para Arduino Nano, aunque el circuito ha sido especialmente adaptado para trabajar con la aplicación *LOFI Blocks*, que permite programar mediante bloques a través de la conexión Bluetooth.
+
+[Funciones de LOFI Blocks y firmware requerido](https://lofiblocks.com/en/) 
+
+## Diseño
+La placa se diseñó con [KiCad](https://kicad-pcb.org/) Ver. 4
+
 ![Model](https://github.com/Open-Hardware-Latinoamerica/NanoBoard/blob/master/Imagenes/3dModel.JPG?raw=true)
 
 ![Photo](https://github.com/Open-Hardware-Latinoamerica/NanoBoard/blob/master/Imagenes/FotoPCB.jpg?raw=true)
