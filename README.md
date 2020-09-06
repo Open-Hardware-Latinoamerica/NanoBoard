@@ -23,4 +23,4 @@ The board was designed using [KiCad](https://kicad-pcb.org/) Ver. 4
 
 ![Photo](https://github.com/Open-Hardware-Latinoamerica/NanoBoard/blob/master/Imagenes/FotoPCB.jpg?raw=true)
 
-
+![Robot](https://github.com/Open-Hardware-Latinoamerica/NanoBoard/blob/master/Imagenes/robot.jpg?raw=true)
