@@ -1,7 +1,7 @@
 # NanoBoard
  Low cost board for educational robotics applications - Placa de bajo costo para aplicaciones de robótica educativa.
  
-##Characteristics
+## Characteristics
 The board has all the necessary hardware to assemble a robot for educational experiences:
 - L293 to control two DC motors
 - Connector for an HC-SR04 ultrasound distance meter
