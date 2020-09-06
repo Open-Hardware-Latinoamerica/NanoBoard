@@ -13,6 +13,7 @@ The board has all the necessary hardware to assemble a robot for educational exp
 
 ## Programming
 The board can be programmed with any language available for Arduino Nano, although the circuit has been specially adapted to work with the *LOFI Blocks* app, which allows programming using blocks through the Bluetooth connection.
+
 [LOFI Blocks features and required firmware](https://lofiblocks.com/en/)
 
 ![Model](https://github.com/Open-Hardware-Latinoamerica/NanoBoard/blob/master/Imagenes/3dModel.JPG?raw=true)
